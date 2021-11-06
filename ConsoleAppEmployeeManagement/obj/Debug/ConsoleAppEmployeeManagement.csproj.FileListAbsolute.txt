@@ -1,0 +1,2 @@
+D:\AIUB\8TH SEM\C#\C# PROJECTS\ConsoleAppEmployeeManagement\obj\Debug\ConsoleAppEmployeeManagement.csprojAssemblyReference.cache
+D:\AIUB\8TH SEM\C#\C# PROJECTS\ConsoleAppEmployeeManagement\obj\Debug\ConsoleAppEmployeeManagement.csproj.CoreCompileInputs.cache

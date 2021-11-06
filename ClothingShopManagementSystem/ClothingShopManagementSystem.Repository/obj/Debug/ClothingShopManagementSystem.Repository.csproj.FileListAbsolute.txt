@@ -1,0 +1,38 @@
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Repository.dll.config
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Repository.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Repository.pdb
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Data.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Entity.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Data.pdb
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Data.dll.config
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Entity.pdb
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Entity.dll.config
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\obj\Debug\ClothingShopManagementSystem.Repository.csprojAssemblyReference.cache
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\obj\Debug\ClothingShopManagementSystem.Repository.csproj.CoreCompileInputs.cache
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\obj\Debug\ClothingShopManagementSystem.Repository.csproj.CopyComplete
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\obj\Debug\ClothingShopManagementSystem.Repository.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\obj\Debug\ClothingShopManagementSystem.Repository.pdb
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Repository.dll.config
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Repository.dll
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Repository.pdb
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Data.dll
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Entity.dll
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Data.pdb
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Entity.pdb
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\obj\Debug\ClothingShopManagementSystem.Repository.csprojResolveAssemblyReference.cache
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\obj\Debug\ClothingShopManagementSystem.Repository.dll
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\obj\Debug\ClothingShopManagementSystem.Repository.pdb
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Repository.dll.config
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Repository.dll
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Repository.pdb
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Data.dll
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Entity.dll
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Data.pdb
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Data.dll.config
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Entity.pdb
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\bin\Debug\ClothingShopManagementSystem.Entity.dll.config
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\obj\Debug\ClothingShopManagementSystem.Repository.csproj.AssemblyReference.cache
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\obj\Debug\ClothingShopManagementSystem.Repository.csproj.CoreCompileInputs.cache
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\obj\Debug\ClothingShopManagementSystem.Repository.csproj.CopyComplete
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\obj\Debug\ClothingShopManagementSystem.Repository.dll
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Repository\obj\Debug\ClothingShopManagementSystem.Repository.pdb

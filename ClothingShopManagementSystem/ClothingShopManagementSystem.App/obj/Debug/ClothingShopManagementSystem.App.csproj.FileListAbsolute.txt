@@ -1,0 +1,134 @@
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.App.exe.config
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.App.exe
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.App.pdb
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Properties.Resources.resources
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.csproj.GenerateResource.cache
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.csproj.CoreCompileInputs.cache
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.exe
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.pdb
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.LoginDialog.resources
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.DashBord.resources
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.csproj.CopyComplete
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.UcCart.resources
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Initial.resources
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Inventory.resources
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Crud.resources
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Return.resources
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.csprojAssemblyReference.cache
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.NewCompany.resources
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\MetroFramework.Design.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\MetroFramework.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Employee.resources
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.EmployeeAdd.resources
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Company.resources
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Financial.resources
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.History.resources
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\EntityFramework.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\EntityFramework.xml
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Entity.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Framework.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Repository.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Data.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Entity.pdb
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Entity.dll.config
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Framework.pdb
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Framework.dll.config
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Repository.pdb
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Repository.dll.config
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Data.pdb
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Data.dll.config
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.CompanyPayment.resources
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.App.exe.config
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.exe
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.pdb
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.App.exe
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.App.pdb
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Entity.dll
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Framework.dll
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Repository.dll
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\EntityFramework.dll
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\MetroFramework.Design.dll
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\MetroFramework.dll
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Data.dll
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Entity.pdb
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Framework.pdb
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Repository.pdb
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\EntityFramework.xml
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Data.pdb
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.csprojResolveAssemblyReference.cache
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Company.resources
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.CompanyPayment.resources
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Crud.resources
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Employee.resources
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.EmployeeAdd.resources
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Financial.resources
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.History.resources
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.LoginDialog.resources
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.DashBord.resources
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Initial.resources
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Inventory.resources
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.NewCompany.resources
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Properties.Resources.resources
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Return.resources
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.UcCart.resources
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.csproj.GenerateResource.Cache
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.App.exe.manifest
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.App.application
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.exe.manifest
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.application
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.App.exe.config
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.App.exe.manifest
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.App.application
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.App.exe
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.App.pdb
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Entity.dll
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Framework.dll
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Repository.dll
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\EntityFramework.dll
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\EntityFramework.SqlServer.dll
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\FontAwesome.Sharp.dll
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\MetroFramework.Design.dll
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\MetroFramework.dll
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\MetroFramework.Fonts.dll
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Data.dll
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Entity.pdb
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Entity.dll.config
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Framework.pdb
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Framework.dll.config
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Repository.pdb
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Repository.dll.config
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\EntityFramework.xml
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\EntityFramework.SqlServer.xml
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Data.pdb
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\bin\Debug\ClothingShopManagementSystem.Data.dll.config
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.csproj.AssemblyReference.cache
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Company.resources
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.CompanyPayment.resources
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Crud.resources
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Employee.resources
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.EmployeeAdd.resources
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Financial.resources
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.History.resources
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.LoginDialog.resources
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.DashBord.resources
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Initial.resources
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Inventory.resources
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.NewCompany.resources
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Properties.Resources.resources
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.Return.resources
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.UcCart.resources
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.csproj.GenerateResource.cache
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.csproj.CoreCompileInputs.cache
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.exe.manifest
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.application
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.csproj.CopyComplete
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.exe
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.App\obj\Debug\ClothingShopManagementSystem.App.pdb

@@ -1,0 +1,5 @@
+D:\AIUB\8TH SEM\C#\C# PROJECTS\ConsoleApplicationEmployeeManagementUpdate\ConsoleApplicationEmployeeManagementUpdate\bin\Debug\ConsoleApplicationEmployeeManagementUpdate.exe.config
+D:\AIUB\8TH SEM\C#\C# PROJECTS\ConsoleApplicationEmployeeManagementUpdate\ConsoleApplicationEmployeeManagementUpdate\bin\Debug\ConsoleApplicationEmployeeManagementUpdate.exe
+D:\AIUB\8TH SEM\C#\C# PROJECTS\ConsoleApplicationEmployeeManagementUpdate\ConsoleApplicationEmployeeManagementUpdate\bin\Debug\ConsoleApplicationEmployeeManagementUpdate.pdb
+D:\AIUB\8TH SEM\C#\C# PROJECTS\ConsoleApplicationEmployeeManagementUpdate\ConsoleApplicationEmployeeManagementUpdate\obj\Debug\ConsoleApplicationEmployeeManagementUpdate.exe
+D:\AIUB\8TH SEM\C#\C# PROJECTS\ConsoleApplicationEmployeeManagementUpdate\ConsoleApplicationEmployeeManagementUpdate\obj\Debug\ConsoleApplicationEmployeeManagementUpdate.pdb

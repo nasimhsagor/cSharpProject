@@ -1,0 +1,6 @@
+D:\AIUB\8TH SEM\C#\C# PROJECTS\ConsoleApplicationBankingSystem\ConsoleApplicationBankingSystem\bin\Debug\ConsoleApplicationBankingSystem.exe.config
+D:\AIUB\8TH SEM\C#\C# PROJECTS\ConsoleApplicationBankingSystem\ConsoleApplicationBankingSystem\bin\Debug\ConsoleApplicationBankingSystem.exe
+D:\AIUB\8TH SEM\C#\C# PROJECTS\ConsoleApplicationBankingSystem\ConsoleApplicationBankingSystem\bin\Debug\ConsoleApplicationBankingSystem.pdb
+D:\AIUB\8TH SEM\C#\C# PROJECTS\ConsoleApplicationBankingSystem\ConsoleApplicationBankingSystem\obj\Debug\ConsoleApplicationBankingSystem.csprojResolveAssemblyReference.cache
+D:\AIUB\8TH SEM\C#\C# PROJECTS\ConsoleApplicationBankingSystem\ConsoleApplicationBankingSystem\obj\Debug\ConsoleApplicationBankingSystem.exe
+D:\AIUB\8TH SEM\C#\C# PROJECTS\ConsoleApplicationBankingSystem\ConsoleApplicationBankingSystem\obj\Debug\ConsoleApplicationBankingSystem.pdb

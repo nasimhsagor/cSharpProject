@@ -1,0 +1,6 @@
+D:\AIUB\8TH SEM\C#\C# PROJECTS\ConsoleApplicationPartOfProductManagement\ConsoleApplicationPartOfProductManagement\bin\Debug\ConsoleApplicationPartOfProductManagement.exe.config
+D:\AIUB\8TH SEM\C#\C# PROJECTS\ConsoleApplicationPartOfProductManagement\ConsoleApplicationPartOfProductManagement\bin\Debug\ConsoleApplicationPartOfProductManagement.exe
+D:\AIUB\8TH SEM\C#\C# PROJECTS\ConsoleApplicationPartOfProductManagement\ConsoleApplicationPartOfProductManagement\bin\Debug\ConsoleApplicationPartOfProductManagement.pdb
+D:\AIUB\8TH SEM\C#\C# PROJECTS\ConsoleApplicationPartOfProductManagement\ConsoleApplicationPartOfProductManagement\obj\Debug\ConsoleApplicationPartOfProductManagement.csprojResolveAssemblyReference.cache
+D:\AIUB\8TH SEM\C#\C# PROJECTS\ConsoleApplicationPartOfProductManagement\ConsoleApplicationPartOfProductManagement\obj\Debug\ConsoleApplicationPartOfProductManagement.exe
+D:\AIUB\8TH SEM\C#\C# PROJECTS\ConsoleApplicationPartOfProductManagement\ConsoleApplicationPartOfProductManagement\obj\Debug\ConsoleApplicationPartOfProductManagement.pdb

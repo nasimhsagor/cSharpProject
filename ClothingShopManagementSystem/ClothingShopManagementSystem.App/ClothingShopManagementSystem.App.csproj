@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C08D775E-AF34-4DC0-AC3D-7F972B343337}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ClothingShopManagementSystem.App</RootNamespace>
+    <AssemblyName>ClothingShopManagementSystem.App</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>C:\Users\nasim\Music\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>78B42F3FB7CB09945B91BBD2FDDD04695C8E809B</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ClothingShopManagementSystem.App_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="FontAwesome.Sharp, Version=5.15.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FontAwesome.Sharp.5.15.3\lib\net472\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\Downloads\[FTUApps.com] - Guna UI Framework Ultimate v2.0.0.1 + Keygen\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Company.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Company.Designer.cs">
+      <DependentUpon>Company.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CompanyPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CompanyPayment.Designer.cs">
+      <DependentUpon>CompanyPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Crud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Crud.Designer.cs">
+      <DependentUpon>Crud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DelegateList.cs" />
+    <Compile Include="Employee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Employee.Designer.cs">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeAdd.Designer.cs">
+      <DependentUpon>EmployeeAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Financial.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Financial.Designer.cs">
+      <DependentUpon>Financial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginDialog.Designer.cs">
+      <DependentUpon>LoginDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashBord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DashBord.Designer.cs">
+      <DependentUpon>DashBord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="History.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="History.Designer.cs">
+      <DependentUpon>History.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Initial.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Initial.Designer.cs">
+      <DependentUpon>Initial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Inventory.Designer.cs">
+      <DependentUpon>Inventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewCompany.Designer.cs">
+      <DependentUpon>NewCompany.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Return.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Return.Designer.cs">
+      <DependentUpon>Return.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Adjustment.cs" />
+    <Compile Include="UcCart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcCart.Designer.cs">
+      <DependentUpon>UcCart.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Company.resx">
+      <DependentUpon>Company.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CompanyPayment.resx">
+      <DependentUpon>CompanyPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Crud.resx">
+      <DependentUpon>Crud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee.resx">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeAdd.resx">
+      <DependentUpon>EmployeeAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financial.resx">
+      <DependentUpon>Financial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="History.resx">
+      <DependentUpon>History.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginDialog.resx">
+      <DependentUpon>LoginDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashBord.resx">
+      <DependentUpon>DashBord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Initial.resx">
+      <DependentUpon>Initial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventory.resx">
+      <DependentUpon>Inventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewCompany.resx">
+      <DependentUpon>NewCompany.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Return.resx">
+      <DependentUpon>Return.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcCart.resx">
+      <DependentUpon>UcCart.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClothingShopManagementSystem.App_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClothingShopManagementSystem.Entity\ClothingShopManagementSystem.Entity.csproj">
+      <Project>{bcc062e2-0e61-4160-b0aa-445987e241cf}</Project>
+      <Name>ClothingShopManagementSystem.Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ClothingShopManagementSystem.Framework\ClothingShopManagementSystem.Framework.csproj">
+      <Project>{446fa59a-ac96-4eac-974a-ba2240c984d6}</Project>
+      <Name>ClothingShopManagementSystem.Framework</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ClothingShopManagementSystem.Repository\ClothingShopManagementSystem.Repository.csproj">
+      <Project>{269d23d1-953c-4a4b-b82d-25e041434059}</Project>
+      <Name>ClothingShopManagementSystem.Repository</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

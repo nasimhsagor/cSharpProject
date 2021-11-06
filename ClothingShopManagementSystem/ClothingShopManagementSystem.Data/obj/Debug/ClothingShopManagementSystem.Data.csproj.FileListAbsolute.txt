@@ -1,0 +1,20 @@
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\bin\Debug\ClothingShopManagementSystem.Data.dll.config
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\bin\Debug\ClothingShopManagementSystem.Data.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\bin\Debug\ClothingShopManagementSystem.Data.pdb
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\obj\Debug\ClothingShopManagementSystem.Data.csprojAssemblyReference.cache
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\obj\Debug\ClothingShopManagementSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\obj\Debug\ClothingShopManagementSystem.Data.dll
+C:\Users\shari\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\obj\Debug\ClothingShopManagementSystem.Data.pdb
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\bin\Debug\ClothingShopManagementSystem.Data.dll.config
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\bin\Debug\ClothingShopManagementSystem.Data.dll
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\bin\Debug\ClothingShopManagementSystem.Data.pdb
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\obj\Debug\ClothingShopManagementSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\obj\Debug\ClothingShopManagementSystem.Data.dll
+C:\Users\nasim\Desktop\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\obj\Debug\ClothingShopManagementSystem.Data.pdb
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\bin\Debug\ClothingShopManagementSystem.Data.dll.config
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\bin\Debug\ClothingShopManagementSystem.Data.dll
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\bin\Debug\ClothingShopManagementSystem.Data.pdb
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\obj\Debug\ClothingShopManagementSystem.Data.csproj.AssemblyReference.cache
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\obj\Debug\ClothingShopManagementSystem.Data.csproj.CoreCompileInputs.cache
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\obj\Debug\ClothingShopManagementSystem.Data.dll
+D:\AIUB\8TH SEM\C#\ClothingShopManagementSystem\ClothingShopManagementSystem.Data\obj\Debug\ClothingShopManagementSystem.Data.pdb

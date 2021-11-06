@@ -1,0 +1,20 @@
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\bin\Debug\LMS ADMIN.exe.config
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\bin\Debug\LMS ADMIN.exe
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\bin\Debug\LMS ADMIN.pdb
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\obj\Debug\LMS ADMIN.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\obj\Debug\LMS_ADMIN.CreateAcc.resources
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\obj\Debug\LMS_ADMIN.Form1.resources
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\obj\Debug\LMS_ADMIN.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\obj\Debug\LMS ADMIN.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\obj\Debug\LMS ADMIN.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\obj\Debug\LMS ADMIN.exe
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\obj\Debug\LMS ADMIN.pdb
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\obj\Debug\LMS_ADMIN.AdminHomeForm.resources
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\obj\Debug\LMS_ADMIN.AddLibrarianForm.resources
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\obj\Debug\LMS_ADMIN.AddStudentForm.resources
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\obj\Debug\LMS_ADMIN.RemoveStudentForm.resources
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\obj\Debug\LMS_ADMIN.AddBookForm.resources
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\obj\Debug\LMS_ADMIN.RemoveLibrarianForm.resources
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\obj\Debug\LMS_ADMIN.AllBookRecForm.resources
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\obj\Debug\LMS_ADMIN.RemoveBookForm.resources
+C:\Users\Lenovo\source\repos\LMS ADMIN\LMS ADMIN\obj\Debug\LMS_ADMIN.TotalStudentForm.resources

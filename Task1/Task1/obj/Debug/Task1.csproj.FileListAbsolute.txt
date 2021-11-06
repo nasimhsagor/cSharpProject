@@ -1,0 +1,5 @@
+D:\AIUB\8TH SEM\C#\C# PROJECTS\Task1\Task1\bin\Debug\Task1.exe.config
+D:\AIUB\8TH SEM\C#\C# PROJECTS\Task1\Task1\bin\Debug\Task1.exe
+D:\AIUB\8TH SEM\C#\C# PROJECTS\Task1\Task1\bin\Debug\Task1.pdb
+D:\AIUB\8TH SEM\C#\C# PROJECTS\Task1\Task1\obj\Debug\Task1.exe
+D:\AIUB\8TH SEM\C#\C# PROJECTS\Task1\Task1\obj\Debug\Task1.pdb

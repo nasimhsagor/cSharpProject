@@ -1,0 +1,11 @@
+D:\AIUB\8TH SEM\C#\C# PROJECTS\LMS1.0\bin\Debug\LMS1.0.exe.config
+D:\AIUB\8TH SEM\C#\C# PROJECTS\LMS1.0\bin\Debug\LMS1.0.exe
+D:\AIUB\8TH SEM\C#\C# PROJECTS\LMS1.0\bin\Debug\LMS1.0.pdb
+D:\AIUB\8TH SEM\C#\C# PROJECTS\LMS1.0\obj\Debug\LMS1.0.csproj.AssemblyReference.cache
+D:\AIUB\8TH SEM\C#\C# PROJECTS\LMS1.0\obj\Debug\LMS1._0.loginform.resources
+D:\AIUB\8TH SEM\C#\C# PROJECTS\LMS1.0\obj\Debug\LMS1._0.Properties.Resources.resources
+D:\AIUB\8TH SEM\C#\C# PROJECTS\LMS1.0\obj\Debug\LMS1.0.csproj.GenerateResource.cache
+D:\AIUB\8TH SEM\C#\C# PROJECTS\LMS1.0\obj\Debug\LMS1.0.csproj.CoreCompileInputs.cache
+D:\AIUB\8TH SEM\C#\C# PROJECTS\LMS1.0\obj\Debug\LMS1.0.exe
+D:\AIUB\8TH SEM\C#\C# PROJECTS\LMS1.0\obj\Debug\LMS1.0.pdb
+D:\AIUB\8TH SEM\C#\C# PROJECTS\LMS1.0\obj\Debug\LMS1._0.AdminHome.resources

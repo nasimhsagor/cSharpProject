@@ -1,0 +1,28 @@
+C:\Users\TAREK PC\Documents\Visual Studio 2012\Projects\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe.config
+C:\Users\TAREK PC\Documents\Visual Studio 2012\Projects\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe
+C:\Users\TAREK PC\Documents\Visual Studio 2012\Projects\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.pdb
+C:\Users\TAREK PC\Documents\Visual Studio 2012\Projects\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csprojResolveAssemblyReference.cache
+C:\Users\TAREK PC\Documents\Visual Studio 2012\Projects\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.ManagerDashboard.resources
+C:\Users\TAREK PC\Documents\Visual Studio 2012\Projects\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Welcome.resources
+C:\Users\TAREK PC\Documents\Visual Studio 2012\Projects\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Properties.Resources.resources
+C:\Users\TAREK PC\Documents\Visual Studio 2012\Projects\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.GenerateResource.Cache
+C:\Users\TAREK PC\Documents\Visual Studio 2012\Projects\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.exe
+C:\Users\TAREK PC\Documents\Visual Studio 2012\Projects\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.pdb
+C:\Users\TAREK PC\Documents\Visual Studio 2012\Projects\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Login.resources
+C:\Users\TAREK PC\Documents\Visual Studio 2012\Projects\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.OwnerDashboard.resources
+C:\Users\TAREK PC\Documents\Visual Studio 2012\Projects\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Employee.resources
+C:\Users\TAREK PC\Documents\Visual Studio 2012\Projects\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.SalesmanDashboard.resources
+C:\Users\nasim\Desktop\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe.config
+C:\Users\nasim\Desktop\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.exe
+C:\Users\nasim\Desktop\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.pdb
+C:\Users\nasim\Desktop\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.exe
+C:\Users\nasim\Desktop\RestaurantManagement\RestaurantManagement\bin\Debug\RestaurantManagement.pdb
+C:\Users\nasim\Desktop\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csprojResolveAssemblyReference.cache
+C:\Users\nasim\Desktop\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Employee.resources
+C:\Users\nasim\Desktop\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Login.resources
+C:\Users\nasim\Desktop\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.ManagerDashboard.resources
+C:\Users\nasim\Desktop\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.OwnerDashboard.resources
+C:\Users\nasim\Desktop\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.SalesmanDashboard.resources
+C:\Users\nasim\Desktop\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Welcome.resources
+C:\Users\nasim\Desktop\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.Properties.Resources.resources
+C:\Users\nasim\Desktop\RestaurantManagement\RestaurantManagement\obj\Debug\RestaurantManagement.csproj.GenerateResource.Cache

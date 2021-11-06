@@ -1,0 +1,2 @@
+C:\Users\nasim\Desktop\RMS\RMS\bin\Debug\RMS.exe.config
+C:\Users\nasim\Desktop\RMS\RMS\obj\Debug\RMS.csprojResolveAssemblyReference.cache
